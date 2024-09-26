@@ -6,16 +6,15 @@ body {
     color: #333;
 }
 
-/* Header and navigation */
 header {
-    background-color: #1E3A8A; /* Dark blue color */
+    background-color: #1E3A8A;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 header h1 {
-    color: black; /* Set the header title text to black */
+    color: black;
 }
 
 nav a {
@@ -29,7 +28,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Main content */
 main {
     padding: 20px;
     margin: 20px;
@@ -42,7 +40,6 @@ h1, h2 {
     color: #333;
 }
 
-/* Lists */
 ul {
     list-style-type: none;
     padding: 0;
@@ -55,7 +52,6 @@ ul li {
     border-radius: 4px;
 }
 
-/* Form and buttons */
 form ul {
     padding-left: 0;
 }
@@ -77,9 +73,8 @@ button:hover {
     background-color: #45a049;
 }
 
-/* Footer */
 footer {
-    background-color: #1E3A8A; /* Dark blue color */
+    background-color: #1E3A8A;
     color: white;
     text-align: center;
     padding: 10px 0;
