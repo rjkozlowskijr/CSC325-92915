@@ -1,9 +1,6 @@
-<nav>
-  <header>
-    <a href="#">CSC 325 Community Service App</a>a>
-  </header>
-  <div>
-    <ul>
-      <li><a href="index.php">Home</a></li>
-  </div>
-</nav>
+<header>
+    <h1>CSC 325 Community Service App</h1>
+    <nav>        
+        <a href="index.php">Home</a>
+    </nav>
+</header>
